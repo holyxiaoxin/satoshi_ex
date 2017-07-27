@@ -1,5 +1,9 @@
 # Satoshi
 
+## [docs](https://hexdocs.pm/satoshi_ex/App.Satoshi.html)
+
+
+### tests
 ```
 mix test
 ```
