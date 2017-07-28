@@ -1,9 +1,9 @@
-defmodule App.Mixfile do
+defmodule Satoshi.Mixfile do
   use Mix.Project
 
   def project do
-    [app: :app,
-     version: "0.1.0",
+    [app: :satoshi_ex,
+     version: "0.1.3",
      elixir: "~> 1.4",
      build_embedded: Mix.env == :prod,
      start_permanent: Mix.env == :prod,
