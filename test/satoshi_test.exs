@@ -1,8 +1,7 @@
 defmodule SatoshiTest do
   use ExUnit.Case
-  alias App.Satoshi
 
-  doctest App
+  doctest Satoshi
 
   describe "converts to satoshi unit" do
     test "in non-exponent units even for large numbers" do

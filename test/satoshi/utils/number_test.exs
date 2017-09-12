@@ -1,8 +1,8 @@
 defmodule NumberTest do
   use ExUnit.Case
-  alias Utils.Number
+  alias Satoshi.Utils.Number
 
-  doctest App
+  doctest Satoshi
 
   describe "humanize and round significant figures" do
     test "handle 0, doesn't error out" do

@@ -1,9 +1,8 @@
 defmodule StringTest do
   use ExUnit.Case
-  alias App.Satoshi
-  alias Utils.String
+  alias Satoshi.Utils.String
 
-  doctest App
+  doctest Satoshi
 
   describe "humanize" do
     test "in billions" do

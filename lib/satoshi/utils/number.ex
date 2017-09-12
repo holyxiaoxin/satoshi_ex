@@ -1,4 +1,4 @@
-defmodule Utils.Number do
+defmodule Satoshi.Utils.Number do
   @doc """
   Converts Int to x Significant Figures.
 

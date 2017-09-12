@@ -1,4 +1,4 @@
-defmodule App.Satoshi do
+defmodule Satoshi do
   @moduledoc """
   Provides Satoshi conversion functions.
 

@@ -1,4 +1,4 @@
-defmodule Utils.String do
+defmodule Satoshi.Utils.String do
   @one_g 1_000_000_000
   @one_m 1_000_000
   @one_k 1_000
